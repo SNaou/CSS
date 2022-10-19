@@ -1,0 +1,21 @@
+body { 
+    color: blueviolet;
+    font-family: Arial; 
+    font-size: small;
+}
+
+p{
+    color: blue;
+    font-size: large;
+    font-style: italic;
+}
+
+h2{
+    color: brown;
+    background-color: aquamarine;
+}
+
+.black-border {
+    border: 5px solid black;
+
+}

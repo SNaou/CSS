@@ -1,0 +1,30 @@
+
+body { 
+    color: red;
+    font-family: Arial; 
+}
+
+p{
+    color: black;
+    border: 5px solid black; 
+    font-family: Helvetica; 
+    font-style: oblique;
+}
+
+h2{
+    color: black;
+    border: 5px solid black; 
+    
+}
+
+.black-border {
+    border: 5px solid black;
+
+}
+
+
+#green-background {
+        color: black;
+        background-color: green;
+}
+    
